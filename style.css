@@ -1,0 +1,43 @@
+
+.people{
+    color:darkmagenta;
+}
+
+body{
+    background-color:darkcyan;
+    background: #A46C2C;
+background: -moz-linear-gradient(top, #A46C2C 0%, #BFCBC9 48%, #0E8F4C 100%);
+background: -webkit-linear-gradient(top, #A46C2C 0%, #BFCBC9 48%, #0E8F4C 100%);
+background: linear-gradient(to bottom, #A46C2C 0%, #BFCBC9 48%, #0E8F4C 100%);
+}
+
+#Img_identifier{
+    color: red;
+}
+
+#webcam{
+    margin: 10px;
+    border-radius: 10px;
+    border-style: double;
+}
+
+#capture {
+    color: rgb(255, 255, 255); font-size: 16px; line-height: 16px; padding: 6px; border-radius: 10px; font-family: Georgia, serif; font-weight: normal; text-decoration: none; font-style: normal; font-variant: normal; text-transform: none; background-image: linear-gradient(rgb(164, 108, 44) 0%, rgb(191, 203, 201) 48%, rgb(14, 143, 76) 100%); box-shadow: rgb(0, 0, 0) 5px 5px 15px 5px; border: 2px solid rgb(28, 110, 164); display: inline-block;}
+    .myButton:hover {
+    background: #A46C2C; }
+    .myButton:active {
+    background: #0E8F4C; }
+
+#identify{
+    border-style:dotted;
+    border-radius: 5px;
+    background-color: purple;
+    color: white;
+}
+
+#demotext {
+    color: rgb(255, 255, 255);
+    background-color: rgb(35, 35, 35);
+    text-shadow: rgb(255, 255, 255) 0px 0px 5px, rgb(255, 255, 255) 0px 0px 10px, rgb(255, 255, 255) 0px 0px 15px, rgb(73, 255, 24) 0px 0px 20px, rgb(73, 255, 24) 0px 0px 30px, rgb(73, 255, 24) 0px 0px 40px, rgb(73, 255, 24) 0px 0px 55px, rgb(73, 255, 24) 0px 0px 75px;
+    user-select: auto;
+    }
